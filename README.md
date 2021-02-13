@@ -1,2 +1,1 @@
 # OpenCV
-Face Recognition Software
